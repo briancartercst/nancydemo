@@ -1,0 +1,10 @@
+C:\code\training\NancyCon\NancyCon\bin\Debug\NancyCon.exe.config
+C:\code\training\NancyCon\NancyCon\bin\Debug\NancyCon.exe
+C:\code\training\NancyCon\NancyCon\bin\Debug\NancyCon.pdb
+C:\code\training\NancyCon\NancyCon\bin\Debug\Mono.Posix.dll
+C:\code\training\NancyCon\NancyCon\bin\Debug\Nancy.dll
+C:\code\training\NancyCon\NancyCon\bin\Debug\Nancy.Hosting.Self.dll
+C:\code\training\NancyCon\NancyCon\bin\Debug\Nancy.xml
+C:\code\training\NancyCon\NancyCon\bin\Debug\Nancy.Hosting.Self.xml
+C:\code\training\NancyCon\NancyCon\obj\Debug\NancyCon.exe
+C:\code\training\NancyCon\NancyCon\obj\Debug\NancyCon.pdb
